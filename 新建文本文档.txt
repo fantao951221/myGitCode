@@ -1,2 +1,4 @@
 https://github.com/fantao951221/myGitCode.git
 git@github.com:fantao951221/myGitCode.git
+
+git remote add origin git@github.com:fantao951221/myGitCode.git
